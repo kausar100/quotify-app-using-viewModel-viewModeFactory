@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Qoutify</string>
+    <string name="quote_text">Genius is one percent inspiration and ninety-nine percent perspiration.</string>
+    <string name="quote_author">Bruce Wayne</string>
+</resources>
